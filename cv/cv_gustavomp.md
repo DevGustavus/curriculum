@@ -196,6 +196,7 @@ Ensino Superior Concluído.
 
 - [Luizalabs - Back-end com Python - 2º Edição - LuizaLabs](https://drive.google.com/file/d/16wv1JVdgZN3MB9wGyvch8cJqMQExM4vs/view?usp=sharing)
 - [Introduction to Front-End Development - Meta](https://drive.google.com/file/d/1DvutKwFmRR5O1975G8WNnK0PQtdAmHqw/view)
+- [Santander 2026 - Al Java Back-end](https://drive.google.com/file/d/16EDa-LmWTGJ8EyEC37MXRDlN0BDNg2z2/view)
 - [Cybersecurity Essentials - CISCO](https://drive.google.com/file/d/18rd_bwl7ac9K8WRDWVNF4ppwKShA5o1u/view)
 - [CCNAv7: Introdução às redes - CISCO](https://drive.google.com/file/d/1x8sU3OyeJz3sVY396_SqJdfn9tK_RsZs/view)
 
